@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "I Love Yaya",
-  description: "4 anos de amor, zoeira e felicidade ❤️",
+  title: "I Love sarinha",
+  description: "gostosa, engraçada, carinhosa, inteligente, e muito divertida.❤️",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
